@@ -1,0 +1,66 @@
+public class Taxi {
+  //attributes
+  private int x =0; 
+  private int y =0;
+  private int DestinationNum=0; 
+  private int Destination x =0;
+  private int Destination y =0;
+  
+  //contstructor 
+  public String String get
+  public int getx= 0{
+      return.this.x;
+  }
+  public int gety= 0{
+      return this.y;
+  }
+  public int getDestinationNum ( {
+      return this.DestinationNum;
+  }
+  public int getDestination-x () {
+      return this.Destination-x;
+  }
+  public int getDestination-y () {
+      return this.Destination-y;
+  }
+  
+  public void setDestination(int -x){
+      this.Destination=Destination;
+  }
+  public void setDestination(int -y){
+      this.Destination-Destination;
+  }
+}public class Taxi {
+  //attributes
+  private int x =0; 
+  private int y =0;
+  private int DestinationNum=0; 
+  private int Destination x =0;
+  private int Destination y =0;
+  
+  //contstructor 
+  public String String get
+  public int getx= 0{
+      return this.x;
+  }
+  public int gety= 0{
+      return this.y;
+  }
+  public int getDestinationNum ( {
+      return this.DestinationNum;
+  }
+  public int getDestination-x () {
+      return this.Destination-x;
+  }
+  public int getDestination-y () {
+      return this.Destination-y;
+  }
+  
+  public void setDestination(int -x){
+      this.Destination=Destination;
+  }
+  public void setDestination(int -y){
+      this.Destination-Destination;
+  }
+}
+//

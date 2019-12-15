@@ -1,0 +1,16 @@
+public class Taxi; {
+
+    public static void main (String [] args) {
+        
+        System.out.println(">>>Book A Taxi<<<");
+        
+    Taxi x = new Taxi ("AHA143");
+    x.run ("I will go to STI Cubao");
+    //x:_,y:_
+    x.book(10, 10);
+    x.run("I am leaving on a jetplane");
+        //False
+    }
+    
+    
+}
